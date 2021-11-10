@@ -1,0 +1,12 @@
+1. Pepperoni/8.5/Cheese, Pepperoni
+2. Cheese/8.5/Cheese
+3. Hawaiian/8.5/Cheese, Ham, Pineapple
+4. Ham & Cheese/8.5/Cheese, Ham
+5. Vege/8.5/Basil, Cheese, Spinich, Tomato
+6. Meatlovers/8.5/Bacon, Cheese, Ham, Pepperoni, Salami, Sausage
+7. Garlic Cheese/8.5/Cheese, Garlic Sause
+8. Meatstrosity/13.5/Bacon, Cheese, Chicken, Ham, Pastrami, Pepperoni, Salami, Sausage
+9. Mayo Chicken/13.5/Cheese, Chicken, Mayo
+10. Cheese Supreme/13.5/Cheese, Cheese Crust, Cheese Sause
+11. Super Vege/13.5/Basil,Cheese, Kale, Parsley, Rocket, Spinich, Thyme, Tomato
+12. Bacon & Prawn/13.5/Cheese, Garlic Aioli, Garlic Prawns
